@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Daniel Caluff 👋
-#### Desarrollador web frontend 💻 actualmente en **búsqueda activa** de empleo
+#### Desarrollador web frontend 💻
 
 ### Tecnologías:
 
