@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/danielcaluff" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/linkedin.svg" alt="daniel_caluff" height="45" width="45" /></a>
   <a href="https://twitter.com/danielcaluff" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/x.svg" alt="daniel_caluff" height="55" width="55" /></a>
-  <a href="https://linkedin.com/in/danielcaluff" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="daniel_caluff" height="45" width="45" /></a>
+  <a href="mailto:dcaluff@gmail.com" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="daniel_caluff" height="45" width="45" /></a>
 </p>
 
 
