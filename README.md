@@ -1,5 +1,6 @@
-### Hola, mi nombre es Daniel Caluff 👋
-#### Desarrollador web frontend 💻
+<h2 align="center">I'm Daniel Caluff 👋, a Frontend Developer proficient in React & Nextjs 💻</h2>
+
+<img width="100%" loading="lazy" src="https://github.com/caluff/caluff/blob/main/assests/rainbow-superthin.webp"/>
 
 ### Tecnologías:
 
@@ -14,6 +15,10 @@
 - MongoDB 
 - PostgreSQL
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/danielcaluff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_mohammad" height="30" width="40" /></a>
+</p>
 
 <!--
 **caluff/caluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
