@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/danielcaluff" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/x_logo.svg" alt="daniel_caluff" height="60" width="60" /></a>
-  <a href="https://twitter.com/danielcaluff" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/linkedin.svg" alt="daniel_caluff" height="45" width="45" /></a>
+  <a href="www.linkedin.com/in/danielcaluff" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/linkedin.svg" alt="daniel_caluff" height="45" width="45" /></a>
 </p>
 
 
