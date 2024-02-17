@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/danielcaluff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_mohammad" height="30" width="40" /></a>
+  <a href="https://twitter.com/danielcaluff" target="blank"><img align="center" src="https://github.com/caluff/caluff/blob/main/assests/x_logo.svg" alt="daniel_caluff" height="60" width="60" /></a>
 </p>
 
 <!--
