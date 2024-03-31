@@ -33,9 +33,11 @@
 
 <h2 align="left">Connect with me:</h3>
 <p align="">
-  <a href="https://linkedin.com/in/danielcaluff" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/linkedin.svg" alt="daniel_caluff" height="45" width="45" /></a>
-  <a href="https://twitter.com/danielcaluff" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/x.svg" alt="daniel_caluff" height="45" width="45" /></a>
-  <a href="mailto:dcaluff@gmail.com" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="daniel_caluff" height="45" width="45" /></a>
+  <a href="https://linkedin.com/in/danielcaluff" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/linkedin.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/danielcaluff" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/x.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:dcaluff@gmail.com" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/DanielCaluff" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/telegram.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/danielcaluff#8276" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/discord.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 
