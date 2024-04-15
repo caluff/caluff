@@ -23,15 +23,17 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://xata.io" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/xata.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h4 align="left">Tools:</h4>
 <p align=""> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/github.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://github.com" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/github.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/webstorm/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/webstorm.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/windows.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/npm.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="left">Connect with me:</h3>
