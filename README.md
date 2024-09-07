@@ -5,10 +5,9 @@
 
 <img width="100%" loading="lazy" src="https://github.com/caluff/caluff/blob/main/assests/rainbow-superthin.webp"/>
 
-<h2 align="left">Languages and Tools:</h2>
-<h4 align="left">💻 Skills:</h4>
+<h2 align="left">💻 Languages and Tools:</h2>
+<h4 align="left">Skills:</h4>
 <p align=""> 
-  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -54,7 +53,8 @@
   <a href="https://discord.com/users/danielcaluff#8276" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/discord.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
-# 📊 GitHub Stats:
+<h2 align="left">📊 GitHub Stats:</h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=caluff&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=caluff&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caluff&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
