@@ -59,6 +59,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=caluff&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caluff&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=caluff&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<h2 align="left">🔝 Top Contributed Repo</h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=caluff&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<h2 align="left">✍️ Random Dev Quote</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+[![](https://visitcount.itsvg.in/api?id=caluff&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 <!--
 **caluff/caluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
