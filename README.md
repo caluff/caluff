@@ -75,6 +75,7 @@
   <a href="mailto:dcaluff@gmail.com" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://t.me/DanielCaluff" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/telegram.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/danielcaluff#8276" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/discord.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://danielcaluff.vercel.app" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/logo.png" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="left">📊 GitHub Stats:</h2>
