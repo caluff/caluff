@@ -17,6 +17,7 @@
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://getbootstrap.com/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/bootstrap.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/redux.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/materialui.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://nextui.org/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/nextui.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.oracle.com/java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;&nbsp; 
@@ -25,6 +26,9 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://xata.io" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/xata.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/framer.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/stripe.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/sanity.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/three-js.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h4 align="left">Tools:</h4>
