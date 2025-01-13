@@ -25,10 +25,10 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://xata.io" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/xata.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/framer.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/stripe.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/sanity.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.framer.com/motion" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/three-js.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.framer.com" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/framer.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.stripe.com" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/stripe.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.sanity.io" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/sanity.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.threejs.org" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/three-js.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h4 align="left">Tools:</h4>
@@ -79,7 +79,7 @@
   <a href="mailto:dcaluff@gmail.com" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://t.me/DanielCaluff" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/telegram.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/danielcaluff#8276" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/discord.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://danielcaluff.vercel.app" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/logo.png" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://danielcaluff.vercel.app" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/logo-laptop.svg" alt="daniel_caluff" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="left">📊 GitHub Stats:</h2>
